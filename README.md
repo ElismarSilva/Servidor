@@ -18,14 +18,6 @@ Antes de executar o projeto, certifique-se de ter o Flask instalado no seu ambie
 
 pip install Flask
 
-## Como Executar
-
-1. Clone este repositório ou baixe o código-fonte.
-
-2. Navegue até o diretório do projeto no terminal.
-
-3. Execute o aplicativo Flask com o seguinte comando:
-
 python app.py
 
 
